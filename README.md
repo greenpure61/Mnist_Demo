@@ -17,9 +17,3 @@ CLI-predict for enkeltbilleder
 
 Gemmer bedste model automatisk (mnist_cnn.pt)
 
-🗂️ Projektstruktur
-.
-├─ data/                 # MNIST downloades her automatisk
-├─ train.py              # træning + evaluering + gem model
-├─ predict.py            # CLI: forudsig fra et billede
-└─ draw_pad.py           # OpenCV-tegneplade med overlay & preview
